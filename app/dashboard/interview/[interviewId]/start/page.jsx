@@ -6,7 +6,7 @@ import db from '@/utils/db'
 import { eq } from 'drizzle-orm'
 import QuestionsSection from './_components/QuestionsSection'
 import RecordAnswerSection from './_components/RecordAnswerSection'
-import { Button } from '@/components/ui/Button'
+import { Button } from '@/components/ui/button'
 import Link from 'next/link';
 
 
